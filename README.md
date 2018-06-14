@@ -1,2 +1,4 @@
 # HeLLoWorlD
-Salutation!! Now following instructions
+<?php
+print 'HeLLo WorlD';
+?>
